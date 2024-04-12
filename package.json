@@ -5,6 +5,7 @@
   "scripts": {
     "start": "ts-node src/index.ts",
     "ex1": "ts-node src/exercise1/exercise-1.ts",
+    "ex4": "ts-node src/exercise4/exercise-4.ts",
     "test": "jest"
   },
   "private": true,
